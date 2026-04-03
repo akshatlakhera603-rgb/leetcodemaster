@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
