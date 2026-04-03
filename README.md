@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -36,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [2544-alternating-digit-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
