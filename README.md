@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -41,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
