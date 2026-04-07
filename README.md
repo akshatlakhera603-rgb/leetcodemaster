@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2544-alternating-digit-sum) |
 ## Stack
