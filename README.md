@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
