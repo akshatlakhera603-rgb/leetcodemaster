@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0303-range-sum-query-immutable) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
