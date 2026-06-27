@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0020-valid-parentheses) |
+| [0709-to-lower-case](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0709-to-lower-case) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Trie
