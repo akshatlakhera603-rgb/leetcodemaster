@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0709-to-lower-case) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 ## Sorting
