@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0709-to-lower-case) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2544-alternating-digit-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
