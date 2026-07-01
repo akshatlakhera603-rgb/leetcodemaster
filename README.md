@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
