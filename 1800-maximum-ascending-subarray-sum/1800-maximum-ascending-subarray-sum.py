@@ -1,0 +1,12 @@
+class Solution:
+    def maxAscendingSum(self, nums: List[int]) -> int:
+        curentsum=nums[0]
+        maxsum=nums[0]
+        for i in range(1,len(nums)):
+            if nums[i]>nums[i-1]:
+                curentsum=curentsum+nums[i]
+            else:
+                curentsum=nums[i]
+            maxsum=max(maxsum,curentsum)
+        return maxsum
+        
