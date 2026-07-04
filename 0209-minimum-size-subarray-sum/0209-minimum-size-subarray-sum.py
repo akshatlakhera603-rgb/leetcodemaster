@@ -6,7 +6,7 @@ class Solution:
         for high in range(len(nums)):
             currentsum+=nums[high]
             while currentsum>=target:
-                minlength=min(minlength,high - low+1)
+                minlength=min(minlength,high-low+1)
                 currentsum-=nums[low]
                 low+=1
         return 0 if minlength==float('inf') else minlength
