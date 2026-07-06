@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
