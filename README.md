@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
 |  |
 | ------- |
