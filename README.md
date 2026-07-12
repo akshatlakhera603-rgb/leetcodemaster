@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -195,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
