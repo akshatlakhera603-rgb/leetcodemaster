@@ -1,32 +1,19 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-        count1=0
-        count2=0
-        count3=0
-        arr=[]
-        for i in nums:
-            if i ==0:
-                count1+=1
-            elif i==1:
-                count2+=1
+        n=len(nums)
+        low=0
+        mid=0
+        high=n-1
+        while mid <=high:
+            if nums[mid]==0:
+                nums[low],nums[mid]=nums[mid],nums[low]
+                low+=1
+                mid+=1
+            elif nums[mid]==1:
+                mid+=1
             else:
-                count3+=1
-        index = 0
-        
-        
-        for i in range(count1):
-            nums[index] = 0
-            index += 1
-        
-        
-        for i in range(count2):
-            nums[index] = 1
-            index += 1
-        
-        
-        for i in range(count3):
-            nums[index] = 2
-            index += 1
+                nums[mid],nums[high]=nums[high],nums[mid]
+                high-=1
 
         
     
