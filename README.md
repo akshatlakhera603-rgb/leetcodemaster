@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
