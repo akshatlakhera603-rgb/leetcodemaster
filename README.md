@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1550-three-consecutive-odds) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0572-subtree-of-another-tree) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
