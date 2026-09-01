@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
