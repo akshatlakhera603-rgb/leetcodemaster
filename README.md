@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -348,5 +350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
