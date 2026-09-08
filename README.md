@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0643-maximum-average-subarray-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
