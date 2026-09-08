@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0134-gas-station) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2643-row-with-maximum-ones) |
 ## Database
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1757-recyclable-and-low-fat-products) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
