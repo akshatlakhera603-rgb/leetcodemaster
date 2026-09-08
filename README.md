@@ -352,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2643-row-with-maximum-ones](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2643-row-with-maximum-ones) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
