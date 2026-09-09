@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1329-sort-the-matrix-diagonally) |
