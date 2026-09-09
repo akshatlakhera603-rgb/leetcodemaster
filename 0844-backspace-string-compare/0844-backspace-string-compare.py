@@ -14,9 +14,6 @@ class Solution:
             else:
                 if stack2:
                     stack2.pop()
-        if stack1==stack2:
-            return True 
-        else:
-            return False
-
+        return stack1==stack2
+        
         
