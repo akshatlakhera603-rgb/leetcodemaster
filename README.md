@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0766-toeplitz-matrix) |
