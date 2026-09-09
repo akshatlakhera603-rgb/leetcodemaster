@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2643-row-with-maximum-ones) |
 ## Database
 |  |
