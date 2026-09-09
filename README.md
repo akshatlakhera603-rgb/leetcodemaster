@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1572-matrix-diagonal-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1329-sort-the-matrix-diagonally) |
+| [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
