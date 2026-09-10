@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
+| [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
+| [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
