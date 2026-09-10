@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0145-binary-tree-postorder-traversal) |
