@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+| [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0735-asteroid-collision) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
