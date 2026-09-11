@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0387-first-unique-character-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
