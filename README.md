@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0202-happy-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0349-intersection-of-two-arrays) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0237-delete-node-in-a-linked-list) |
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
