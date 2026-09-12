@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 | [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
