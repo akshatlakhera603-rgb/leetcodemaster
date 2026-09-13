@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3884-first-matching-character-from-both-ends) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
