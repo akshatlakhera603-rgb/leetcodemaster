@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0735-asteroid-collision) |
