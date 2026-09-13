@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
