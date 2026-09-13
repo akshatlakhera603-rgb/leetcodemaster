@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
