@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1816-truncate-sentence](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3884-first-matching-character-from-both-ends) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
