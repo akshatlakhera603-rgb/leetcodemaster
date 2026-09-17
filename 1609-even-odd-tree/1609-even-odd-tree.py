@@ -4,14 +4,15 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import deque
 class Solution:
     def isEvenOddTree(self, root: Optional[TreeNode]) -> bool:
-        queue=[root]
+        queue=deque([root])
         count=0
         while queue:
             level=[]
             for i in range(len(queue)):
-                node=queue.pop(0)
+                node=queue.popleft()
                 level.append(node.val)
                 if node.left!=None :
                     queue.append(node.left)
