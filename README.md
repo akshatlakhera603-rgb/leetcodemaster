@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1046-last-stone-weight) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1329-sort-the-matrix-diagonally) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 | [2974-minimum-number-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2974-minimum-number-game) |
 ## Floyd's Cycle Finding Algorithm
