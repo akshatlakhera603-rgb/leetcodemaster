@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1046-last-stone-weight) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0977-squares-of-a-sorted-array) |
 | [1329-sort-the-matrix-diagonally](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1329-sort-the-matrix-diagonally) |
 | [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1424-diagonal-traverse-ii) |
 | [2974-minimum-number-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/2974-minimum-number-game) |
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -620,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
