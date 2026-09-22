@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0303-range-sum-query-immutable) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1046-last-stone-weight) |
@@ -634,4 +638,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0973-k-closest-points-to-origin) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
