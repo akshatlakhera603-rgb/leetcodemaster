@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0509-fibonacci-number) |
