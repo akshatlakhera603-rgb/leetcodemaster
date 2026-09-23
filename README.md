@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0724-find-pivot-index) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0860-lemonade-change) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
