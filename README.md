@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0930-binary-subarrays-with-sum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0135-candy) |
+| [0860-lemonade-change](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0860-lemonade-change) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
