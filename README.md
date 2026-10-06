@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0205-isomorphic-strings) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0202-happy-number) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0191-number-of-1-bits) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/akshatlakhera603-rgb/leetcodemaster/tree/master/0498-diagonal-traverse) |
